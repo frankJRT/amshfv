@@ -1,4 +1,4 @@
-# vaxo
+# plantilla vue
 
 ## Project setup
 ```
